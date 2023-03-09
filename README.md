@@ -4,3 +4,5 @@
   Two one-bit data inputs are fed at twice the clock rate and the RTL module has to give out data with the individual inputs multiplexed as shown in the image.
      
 ![image](https://user-images.githubusercontent.com/79787892/223920911-a45b3d8f-289d-40a8-8071-ef82c43d6f2b.png)
+
+The output simulation of the verilog code is saved as"output_rtl" and i am eagerly waiting for suggestion to improve logic of my code.
